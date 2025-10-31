@@ -2,7 +2,7 @@
 
 Este projeto é um exemplo de aplicação **Node.js** com **TypeScript**, usando **Docker multi-stage build** para criar uma imagem leve e eficiente.
 
-![Dockerfile Multi-Stage](https://github.com/RyanViniciusS/Docker-Multi-Stage/raw/main/images/carbon.png)
+![Dockerfile Multi-Stage](https://github.com/RyanViniciusS/Docker-Multi-Stage/blob/main/images/docker.png)
 
 ---
 
